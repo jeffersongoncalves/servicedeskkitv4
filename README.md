@@ -1,6 +1,6 @@
 <div class="filament-hidden">
 
-![ServiceDeskKit](https://raw.githubusercontent.com/jeffersongoncalves/servicedeskkitv5/main/art/jeffersongoncalves-servicedeskkitv5.png)
+![ServiceDeskKit](https://raw.githubusercontent.com/jeffersongoncalves/servicedeskkitv4/main/art/jeffersongoncalves-servicedeskkitv4.png)
 
 </div>
 
@@ -32,7 +32,7 @@ web applications with a ready-to-use multi-panel structure.
 
 Clone the repository
 ``` bash
-laravel new my-app --using=jeffersongoncalves/servicedeskkitv5 --database=mysql
+laravel new my-app --using=jeffersongoncalves/servicedeskkitv4 --database=mysql
 ```
 
 ### Using FilaKit CLI
@@ -40,7 +40,7 @@ laravel new my-app --using=jeffersongoncalves/servicedeskkitv5 --database=mysql
 Or use [FilaKit CLI](https://github.com/jeffersongoncalves/filakit-cli) for a simplified setup:
 
 ```bash
-filakit new my-app --kit=jeffersongoncalves/servicedeskkitv5
+filakit new my-app --kit=jeffersongoncalves/servicedeskkitv4
 ```
 
 > Install FilaKit CLI: `composer global require jeffersongoncalves/filakit-cli`
@@ -94,7 +94,7 @@ php artisan serve
 
 Clone the repository
 ```bash
-laravel new my-app --using=jeffersongoncalves/servicedeskkitv5 --database=mysql
+laravel new my-app --using=jeffersongoncalves/servicedeskkitv4 --database=mysql
 ```
 
 Move into the project directory

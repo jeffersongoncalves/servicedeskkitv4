@@ -1,4 +1,4 @@
-name: servicedeskkitv5
+name: servicedeskkitv4
 php: '8.2'
 secured: true
 aliases: {  }
