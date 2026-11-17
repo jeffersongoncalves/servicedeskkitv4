@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1120e7ab5b9e5b59b2668a9ecef32249",
+    "content-hash": "e441ece376c13ec6fa0c1eee2e90f2aa",
     "packages": [
         {
             "name": "achyutn/filament-log-viewer",
@@ -2934,21 +2934,21 @@
         },
         {
             "name": "jeffersongoncalves/filament-service-desk",
-            "version": "2.5.0",
+            "version": "2.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/filament-service-desk.git",
-                "reference": "7b9ea2030e2fe8eae29fe121fee870565796c107"
+                "reference": "dfe2022db4d5b5cb982a8cb6fd9dbdbb44b529a5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/filament-service-desk/zipball/7b9ea2030e2fe8eae29fe121fee870565796c107",
-                "reference": "7b9ea2030e2fe8eae29fe121fee870565796c107",
+                "url": "https://api.github.com/repos/jeffersongoncalves/filament-service-desk/zipball/dfe2022db4d5b5cb982a8cb6fd9dbdbb44b529a5",
+                "reference": "dfe2022db4d5b5cb982a8cb6fd9dbdbb44b529a5",
                 "shasum": ""
             },
             "require": {
                 "filament/filament": "^4.8",
-                "jeffersongoncalves/laravel-service-desk": "^1.1",
+                "jeffersongoncalves/laravel-service-desk": "^1.3",
                 "php": "^8.2",
                 "spatie/laravel-package-tools": "^1.14.0"
             },
@@ -3003,7 +3003,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/filament-service-desk/issues",
-                "source": "https://github.com/jeffersongoncalves/filament-service-desk/tree/2.5.0"
+                "source": "https://github.com/jeffersongoncalves/filament-service-desk/tree/2.6.0"
             },
             "funding": [
                 {
@@ -3015,7 +3015,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-23T04:21:05+00:00"
+            "time": "2026-11-17T11:21:02+00:00",
+            "published-time": "2026-11-17T11:21:23+00:00"
         },
         {
             "name": "jeffersongoncalves/filament-user",
@@ -3395,16 +3396,16 @@
         },
         {
             "name": "jeffersongoncalves/laravel-service-desk",
-            "version": "v1.2.0",
+            "version": "v1.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jeffersongoncalves/laravel-service-desk.git",
-                "reference": "99de973237b9be7bb4bb9e82a7b952426cdd8cfc"
+                "reference": "636d3faf4b4b2e957ccc091ea8aec950b6833e17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-service-desk/zipball/99de973237b9be7bb4bb9e82a7b952426cdd8cfc",
-                "reference": "99de973237b9be7bb4bb9e82a7b952426cdd8cfc",
+                "url": "https://api.github.com/repos/jeffersongoncalves/laravel-service-desk/zipball/636d3faf4b4b2e957ccc091ea8aec950b6833e17",
+                "reference": "636d3faf4b4b2e957ccc091ea8aec950b6833e17",
                 "shasum": ""
             },
             "require": {
@@ -3418,6 +3419,7 @@
                 "spatie/laravel-package-tools": "^1.14.0"
             },
             "require-dev": {
+                "jeffersongoncalves/pest-plugin-database-migrations": "^1.0",
                 "larastan/larastan": "^3.0",
                 "laravel/pint": "^1.21",
                 "orchestra/testbench": "^10.0|^11.0",
@@ -3466,7 +3468,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jeffersongoncalves/laravel-service-desk/issues",
-                "source": "https://github.com/jeffersongoncalves/laravel-service-desk/tree/v1.2.0"
+                "source": "https://github.com/jeffersongoncalves/laravel-service-desk/tree/v1.3.0"
             },
             "funding": [
                 {
@@ -3478,7 +3480,8 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-09-21T22:11:04+00:00"
+            "time": "2026-11-17T11:19:12+00:00",
+            "published-time": "2026-11-17T11:19:37+00:00"
         },
         {
             "name": "jeffersongoncalves/laravel-user",
@@ -14363,5 +14366,5 @@
         "ext-pcntl": "7.1",
         "ext-posix": "7.1"
     },
-    "plugin-api-version": "2.9.0"
+    "plugin-api-version": "2.11.0"
 }
